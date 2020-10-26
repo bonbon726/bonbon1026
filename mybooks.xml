@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+ <heading>筑筑的奇幻書店</heading>
+ <book>
+  <title>曹洧洧大笨蛋</title>
+  <author>芃芃小可愛</author>
+  <publisher>聯合幼稚園</publisher>
+  <edition>第一版</edition>
+  <price>1000美元</price>
+ </book>
+ <book>
+  <title>邱文文擊敗人</title>
+  <author>芃芃小可愛</author>
+  <publisher>聯合幼稚園</publisher>
+  <edition>第一版</edition>
+  <price>1000美元</price>
+ </book>
+</books>
